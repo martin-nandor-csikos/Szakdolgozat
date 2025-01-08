@@ -1,0 +1,3 @@
+[submodule "src/omsz"]
+	path = src/omsz
+	url = https://github.com/martin-nandor-csikos/Stay_OMSZ.git
